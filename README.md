@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @TasnimAlvi
-- 👀 I’m interested in machine learning and data analysis.
+- 👋 Hi, I’m Tasnim Hassan Khan. Call me Alvi !
+- 👀 I’m interested in machine learning. I'm still a noob.
 - 🌱 I’m currently learning basic python operations and mechanisms
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Email: tasnimmzsusa316@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: ...
 
 <!---
 TasnimAlvi/TasnimAlvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
